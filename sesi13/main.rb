@@ -1,7 +1,6 @@
-puts "menghitung luas persegi panjang"
+# program persegi panjang
 print "masukkan nilai panjang: "
 panjang = gets.chomp.to_i
-
 print "masukkan nilai lebar: "
 lebar = gets.chomp.to_i
 

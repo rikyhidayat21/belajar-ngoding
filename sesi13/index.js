@@ -1,4 +1,3 @@
-// program persegi panjang
 const readline = require('node:readline').createInterface({
   input: process.stdin,
   output: process.stdout
