@@ -15,3 +15,7 @@ if angka % 2 == 0
 else
   puts "ganjil nih nilainya"
 end
+
+# bahkan kita bisa menggunakan method genap atau ganjil
+puts "genap nih pakai method" if angka.even?
+puts "ganjil nih pakai method" if angka.odd?
